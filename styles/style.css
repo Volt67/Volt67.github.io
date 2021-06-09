@@ -61,6 +61,12 @@ body
     line-height: 35px;
     font-family: 'Odibee Sans', cursive;
 }
+.text3{
+    font-family: 'Odibee Sans', cursive;
+    font-size:30px;
+    margin-left: 10%;
+    margin-top: 20%;
+}
 .espace{
     height: 50px;
 }
@@ -82,6 +88,7 @@ body
 }
 .flex1{
     display : flex;   
+    justify-content: center;
     
 }
 .listeartiste{
@@ -145,7 +152,7 @@ header
    
 }
 .plan{
-    margin: 0 38% 0 38%;
+    margin: 0 27% 0 27%;
 }
 h1
 {
