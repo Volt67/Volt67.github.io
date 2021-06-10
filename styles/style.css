@@ -166,14 +166,15 @@ header{
 }
 .comm{
     width: 800px;
-    height: 460px;
-    font-size: 25px;
-    font-family: 'Odibee Sans', cursive;
+    height: 480px;
+    font-size: 15px;
+    font-family: 'Glegoo', serif;
     text-align: center;
     margin : 0 auto 0 auto;
     border: 7px outset #241fa6;
     padding: 7px;
     color:#241fa6; 
+    background-color: floralwhite;
 }
 .tout{
 width: 85%;
