@@ -287,6 +287,16 @@ html {
     font-size: 30px;
     height:40px;
 }
+.bouton2{
+    width: 120px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Odibee Sans', cursive;
+    background-color: white;
+    color:#241fa6;
+    font-size: 30px;
+    height:40px;
+}
 input{
     background-color: #241fa6;
     color: #241fa6;
